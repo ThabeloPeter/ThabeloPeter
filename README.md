@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Thabelo
-- 👀 I’m interested in SE
+-  Hi, I’m Thabelo
+- I’m interested in SE
 
 
 
